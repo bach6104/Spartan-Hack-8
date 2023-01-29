@@ -13,8 +13,13 @@ TECHNOLOGIES:
 
 
 Python3
+
 Bootstrap 4
+
 HTML/CSS
+
 Flask
+
 Pytorch
+
 
